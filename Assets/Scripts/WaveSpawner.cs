@@ -6,7 +6,7 @@ public class WaveSpawner : MonoBehaviour
 {
     public static int EnemiesAlive;
 
-    public Wave [] enemiesArray;
+    public Wave [] enemiesArray = null;
 
     public Transform spawnPoint;
 

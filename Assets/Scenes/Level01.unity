@@ -6168,8 +6168,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa850e6c7ac8e1b41a9b636e1c5cc36c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startMoney: 99999
-  startLives: 1
+  startMoney: 200
+  startLives: 5
 --- !u!114 &644569097
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6184,6 +6184,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameOverUI: {fileID: 1503634550}
   completeLevelUI: {fileID: 980928310}
+  callMenu: {fileID: 0}
 --- !u!114 &644569098
 MonoBehaviour:
   m_ObjectHideFlags: 0

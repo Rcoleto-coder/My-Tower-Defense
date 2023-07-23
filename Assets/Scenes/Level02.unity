@@ -5801,8 +5801,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa850e6c7ac8e1b41a9b636e1c5cc36c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startMoney: 99999
-  startLives: 10
+  startMoney: 200
+  startLives: 1
 --- !u!114 &644569097
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10063,7 +10063,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneFader: {fileID: 1770672037}
-  menuSceneName: MainMenu
 --- !u!4 &1085860280
 Transform:
   m_ObjectHideFlags: 0
